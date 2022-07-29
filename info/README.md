@@ -1,11 +1,19 @@
-# Post-Apocalyptic Abramović Method Game
+# *Post-Apocalyptic Abramović Method Game*
 
-## [Play Post-Apocalyptic Abramovic Method Game in your browser](https://pippinbarr.github.io/post-apocalyptic-abramovic-method-game/web/) (WebGL/HTML5)
+![](images/post-apocalyptic-abramovic-method-game-banner.png)
 
-## [Download Post-Apocalyptic Abramovic Method Game for Mac OS X](https://github.com/pippinbarr/post-apocalyptic-abramovic-method-game/releases/download/v1.0/Post-Apocalyptic.Abramovic.Method.Game.mac.zip)
+# [Play Online](https://www.pippinbarr.com/post-apocalyptic-abramovic-method-game/webgl/) (desktop) or download for [Mac](https://github.com/pippinbarr/post-apocalyptic-abramovic-method-game/releases/tag/mac) or [Windows](https://github.com/pippinbarr/post-apocalyptic-abramovic-method-game/releases/tag/windows)
 
-## [Download Post-Apocalyptic Abramovic Method Game for Windows](https://github.com/pippinbarr/post-apocalyptic-abramovic-method-game/releases/download/v1.0/Post-Apocalyptic.Abramovic.Method.Game.windows.zip)
+## Description
+*The sky is grey! The birds all flew! There’s no more trees for complaining to! The table’s turned! The rice is gone! The world is over, but the Method is strong!*
 
-_Post-Apocalyptic Abramovic Method Game_ was made in [Unity](http://unity3d.com) (using [First Person Drifter](http://torahhorse.com/first-person-drifter-controller-for-unity3d) by [Ben Esposito](http://torahhorse.com/) with a couple of small edits) and [SketchUp](http://www.sketchup.com/). It is a spiritual sequel to the earlier _[Abramovic Method Games](http://www.pippinbarr.com/2014/09/29/abramovic-method-games/)_, but is not an official collaboration with Marina Abramovic or MAI.
+_Post-Apocalyptic Abramovic Method Game_ was made in [Unity](http://unity3d.com) (using [First Person Drifter](http://torahhorse.com/first-person-drifter-controller-for-unity3d) by [Ben Esposito](http://torahhorse.com/) with a couple of small edits) and [SketchUp](http://www.sketchup.com/). It is a spiritual sequel to the earlier _[Abramovic Method Games](http://www.pippinbarr.com/abramovic-method-games/info)_, but is not an official collaboration with Marina Abramovic or MAI.
 
-_Post-Apocalyptic Abramović Method Game_ has been covered by [Kill Screen](https://killscreen.com/articles/in-the-post-apocalypse-there-will-still-be-performance-art/).
+## Documentation
+* Read the [Process Documentation](../process)
+* Look at the [Code Repository](https://github.com/pippinbarr/post-apocalyptic-abramovic-method-game) for source code etc.
+
+## Press
+Read the [Press Kit](../press) for press information
+
+* [Kill Screen](https://killscreen.com/articles/in-the-post-apocalypse-there-will-still-be-performance-art/).
